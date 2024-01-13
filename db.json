@@ -9,6 +9,7 @@
       "Telefono": "123-456-789",
       "TipoMiembro": "Activo",
       "Servicio": {
+        "conteo": 0,
         "OracionGeneral": true,
         "OracionEspecial": false,
         "DireccionGeneral": true,
@@ -29,6 +30,7 @@
       "Telefono": "987-654-321",
       "TipoMiembro": "Activo",
       "Servicio": {
+      "conteo": 0,
         "OracionGeneral": false,
         "OracionEspecial": true,
         "DireccionGeneral": true,
