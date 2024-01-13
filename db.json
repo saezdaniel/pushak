@@ -39,8 +39,7 @@
         "Ensenanza": true,
         "Ofrenda": true
       }
-    },
-    // ... Otros miembros
+    }
   ],
   "ministerios": [
     {
@@ -51,6 +50,5 @@
       "CI": "987654321",
       "Telefono": "987-654-321"
     }
-    // Otros ministerios...
   ]
 }
