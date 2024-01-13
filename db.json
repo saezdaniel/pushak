@@ -40,66 +40,7 @@
         "Ofrenda": true
       }
     },
-    {
-      "ID": 3,
-      "Nombre": "Carlos",
-      "Apellido": "ApellidoCarlos",
-      "FechaNacimiento": "1980-11-20",
-      "CI": "555555555",
-      "Telefono": "555-555-555",
-      "TipoMiembro": "Inactivo",
-      "Servicio": {
-        "OracionGeneral": true,
-        "OracionEspecial": false,
-        "DireccionGeneral": false,
-        "DireccionEspecial": true,
-        "LecturaBiblica": true,
-        "MensajeGeneral": true,
-        "MensajeEspecial": false,
-        "Ensenanza": true,
-        "Ofrenda": false
-      }
-    },
-    {
-      "ID": 4,
-      "Nombre": "Laura",
-      "Apellido": "ApellidoLaura",
-      "FechaNacimiento": "1992-07-08",
-      "CI": "111122223333",
-      "Telefono": "111-222-333",
-      "TipoMiembro": "Activo",
-      "Servicio": {
-        "OracionGeneral": false,
-        "OracionEspecial": true,
-        "DireccionGeneral": true,
-        "DireccionEspecial": false,
-        "LecturaBiblica": true,
-        "MensajeGeneral": true,
-        "MensajeEspecial": true,
-        "Ensenanza": false,
-        "Ofrenda": true
-      }
-    },
-    {
-      "ID": 5,
-      "Nombre": "Pedro",
-      "Apellido": "ApellidoPedro",
-      "FechaNacimiento": "1988-04-30",
-      "CI": "999999999",
-      "Telefono": "999-999-999",
-      "TipoMiembro": "Activo",
-      "Servicio": {
-        "OracionGeneral": true,
-        "OracionEspecial": false,
-        "DireccionGeneral": true,
-        "DireccionEspecial": true,
-        "LecturaBiblica": false,
-        "MensajeGeneral": true,
-        "MensajeEspecial": false,
-        "Ensenanza": true,
-        "Ofrenda": true
-      }
-    }
+    // ... Otros miembros
   ],
   "ministerios": [
     {
